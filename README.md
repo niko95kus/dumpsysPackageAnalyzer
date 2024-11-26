@@ -34,3 +34,4 @@ cd dumpsysPackageAnalyzer
 ![help command](assets/help.png)
 ![run script](assets/exec1.png)
 ![run script 2](assets/exec2.png)
+![result](assets/result.png)
