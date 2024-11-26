@@ -14,14 +14,12 @@ Extract the following information into a CSV file:
 
 ## Installation
 
-Instructions on how to install and set up your project.
-
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/niko95kus/dumpsysPackageAnalyzer.git
 
 # Navigate to the project directory
-cd your-repository-name
+cd dumpsysPackageAnalyzer
 ```
 
 ## Usage
@@ -30,3 +28,9 @@ cd your-repository-name
 2. Download adb that is bundled in [Android SDK platform tools](https://developer.android.com/tools/releases/platform-tools)
 3. Get the dumpsys package data `adb shell dumpsys package > dumpsys-package.txt`
 4. `python3 dumpsys-package-analyzer.py dumpsys-package.txt`
+
+## Examples
+
+![help command](assets/help.png)
+![run script](assets/exec1.png)
+![run script 2](assets/exec2.png)
